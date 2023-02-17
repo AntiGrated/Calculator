@@ -79,3 +79,9 @@ form .multiply {
     background-color: rgb(99, 100, 114);
     color: #15ebc3;
 }
+footer {
+    text-align: center;
+    background-color: bisque;
+    font-size: 15px;
+    color: #787479;
+}
